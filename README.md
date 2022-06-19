@@ -20,8 +20,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img alt="Flutter" title="Flutter" width="40px" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true"/>|<img alt="Echo" title="Echo" width="40px" src="https://cdn.labstack.com/images/echo-logo.svg"/>
-|--|--|
+<img alt="Echo" title="Echo" width="40px" src="https://cdn.labstack.com/images/echo-logo.svg"/>|<img alt="Gin" title="Gin" width="40px" src="https://github.com/gin-gonic/logo/blob/master/color.png?raw=true"/>|<img alt="Flutter" title="Flutter" width="40px" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true"/>
+|--|--|--|
 <br>
 
 
