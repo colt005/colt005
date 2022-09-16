@@ -5,6 +5,7 @@
 At [Kreate](https://kreateworld.in), I work as a **Full Stack Engineer**.
 My everyday tasks include developing Rest APIs, debating new features, ensuring that the backend is operational and ofcourse deploying them to production, at scale.
 
+Currently working on a Whatsapp Bot that will take in a image and send the sticker of the same image after removing the background.
 
 # Skill Set
 
