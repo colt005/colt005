@@ -2,7 +2,7 @@
 
 <h1>Hello there, I'm Rohan Prabhu <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-At [Kreate](https://kreateworld.in), I work as a **Full Stack Engineer**.
+At [NuCash](https://nucash.money), I work as a **Lead Backend Engineer**.
 My everyday tasks include developing Rest APIs, debating new features, ensuring that the backend is operational and ofcourse deploying them to production, at scale.
 
 Currently working on a Whatsapp Bot ( [Whats Sticky](https://github.com/colt005/whats_sticky) ) that will take in a image and send the sticker of the same image after removing the background.
